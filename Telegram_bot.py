@@ -11,10 +11,10 @@ from datetime import datetime
 import jdatetime
 import re
 
-BOT_TOKEN = "PASTE YOURE TELEGRAM BOT TOKEN HERE"
+BOT_TOKEN = "PASTE YOUR TELEGRAM BOT TOKEN HERE"
 USER_FILE = 'users.json'
 RUNTIME_FILE = 'runtime.json'
-CHANNEL_ID = "@YOURE TELEGRAM CHANNEL ID"
+CHANNEL_ID = "@YOUR TELEGRAM CHANNEL ID"
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 
 logging.basicConfig(
