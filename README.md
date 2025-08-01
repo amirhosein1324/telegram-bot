@@ -18,7 +18,7 @@ if a news comes into varzesh3 website you will have it in your telegram channel 
 | `/start`                | Welcome message and bot intro                   |
 | `/help`                 | List all available commands                     |
 | `/btc_price`            | Show current Bitcoin price                      |
-| `/news`                 | Latest sports news (Varzesh3)                   |
+| `/news`                 | 10 Latest sports news (Varzesh3)                |
 | `/price_<coin>`         | Price for any supported coin (e.g. bitcoin)     |
 | `/price_bitcoin`        | Shortcut for Bitcoin price                      |
 | `/price_ethereum`       | Shortcut for Ethereum price                     |
